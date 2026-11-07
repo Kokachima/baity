@@ -1,0 +1,111 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1792292073957,
+      "tag": "0000_supreme_changeling",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1792306440871,
+      "tag": "0001_phase2_constraints",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1792382540758,
+      "tag": "0002_glossy_mystique",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1792459018722,
+      "tag": "0003_lovely_iron_monger",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1792631989641,
+      "tag": "0004_tiresome_lucky_pierre",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1792681119877,
+      "tag": "0005_clammy_randall_flagg",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1792821651850,
+      "tag": "0006_icy_scarlet_spider",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1792832109112,
+      "tag": "0007_loving_alex_power",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1792993438494,
+      "tag": "0008_chunky_runaways",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1793083450851,
+      "tag": "0009_cold_joshua_kane",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1793087497536,
+      "tag": "0010_brief_winter_soldier",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1793170586956,
+      "tag": "0011_free_hercules",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "7",
+      "when": 1793236126930,
+      "tag": "0012_perfect_wolverine",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "7",
+      "when": 1793340902407,
+      "tag": "0013_wide_lightspeed",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "7",
+      "when": 1793408696615,
+      "tag": "0014_smiling_ender_wiggin",
+      "breakpoints": true
+    }
+  ]
+}

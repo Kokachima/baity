@@ -1,0 +1,2 @@
+CREATE UNIQUE INDEX IF NOT EXISTS "idx_addresses_single_default" ON "addresses" USING btree ("user_id") WHERE "addresses"."is_default" = true;--> statement-breakpoint
+CREATE UNIQUE INDEX IF NOT EXISTS "idx_users_lower_email" ON "users" USING btree (LOWER("email"));

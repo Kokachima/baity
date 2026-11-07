@@ -1,0 +1,6 @@
+{
+  "name": "Baity Fashion - Cửa Hàng Thời Trang AI",
+  "description": "Nền tảng thương mại điện tử thời trang Baity dành cho Nam, Nữ và Unisex, tích hợp tìm kiếm sản phẩm bằng ảnh với Gemini AI, chatbot tư vấn và thanh toán VietQR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

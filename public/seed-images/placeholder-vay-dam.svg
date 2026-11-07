@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Ảnh đang cập nhật - Váy & Đầm">
+  <rect width="800" height="1000" fill="#F5F3EF"/>
+  <rect x="48" y="48" width="704" height="904" rx="16" fill="none" stroke="#D6CFC2" stroke-width="2" stroke-dasharray="10 8"/>
+  <g transform="translate(400, 410)" fill="none" stroke="#8C8270" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-40 -50 L0 -85 L40 -50"/>
+    <circle cx="0" cy="-100" r="14"/>
+    <rect x="-90" y="-50" width="180" height="150" rx="12" stroke="#ABA190" stroke-width="2.5"/>
+  </g>
+  <text x="400" y="575" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="30" font-weight="600" fill="#4A453C">Ảnh đang cập nhật</text>
+  <text x="400" y="620" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="400" fill="#7A7264">Danh mục: Váy & Đầm (vay-dam)</text>
+  <text x="400" y="660" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="15" fill="#9A9182">Ảnh giữ chỗ tạm thời — không phải ảnh chụp sản phẩm thật</text>
+</svg>
